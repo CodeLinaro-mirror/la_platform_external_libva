@@ -14,7 +14,8 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/intel/libva"
-    version: "2.22.0"
+    version: "217da1c28336d6a7e9c0c4cb8f1c303968a675f1"
+    closest_version: "2.22.0"
     primary_source: true
   }
 }
